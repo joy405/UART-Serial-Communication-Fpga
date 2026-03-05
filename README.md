@@ -22,3 +22,12 @@ The design converts 8-bit parallel data into serial data following the UART prot
 - Verilog HDL
 - Xilinx Vivado
 - FPGA design methodology
+
+- ##Topics used
+- verilog
+-fpga
+-uart
+-digital-design
+-vivado
+-hardware-design
+-serial-communication
